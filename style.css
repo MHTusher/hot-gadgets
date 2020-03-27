@@ -12,8 +12,30 @@
 .card{
     border: none;
     box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 20px;
 }
 p{
     color: lightslategray;
     font-size: small;
+}
+footer{
+    color: black;
+    font-size: small;
+    text-align: center;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#About-us{
+    height: 100px;
+}
+#About-us h6{
+    color: lightslategray;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+#Contact-us{
+    height: 100px;
 }
